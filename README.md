@@ -13,5 +13,5 @@ http://blog.csdn.net/cocoaqin/article/details/79184540
 
 
 运行挖矿
-nohup gominer --url=stratum+tcp://bcx.vvpool.com:5660 --user=XPvznVLqxeNyY8bkxEAEed5vbEBPNRvGRi.m2
+!nohup gominer --url=stratum+tcp://bcx.vvpool.com:5660 --user=XPvznVLqxeNyY8bkxEAEed5vbEBPNRvGRi.m2
 ```
